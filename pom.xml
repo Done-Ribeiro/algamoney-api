@@ -53,6 +53,12 @@
 			<version>5.1.45</version>
 			<scope>runtime</scope>
 		</dependency>
+		
+		<!-- Migracoes - Flyway -->
+		<dependency>
+			<groupId>org.flywaydb</groupId>
+			<artifactId>flyway-core</artifactId>
+		</dependency>
 	</dependencies>
 
 	<build>
